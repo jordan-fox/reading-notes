@@ -1,5 +1,9 @@
+1. # Code 401 - Advanced Software Development
+
 ```markdown
-# Reading Notes Java 401
+
+My learning journey begins here!
+
 ```
 ### This will be the repository for my notes from **JAVA 401**
 
@@ -10,5 +14,3 @@
 - ## Code 201 - Foundations of Software Development
 
 - ## Code 301 - _Intermediate Software Development_
-
-1. ## Code 401 - Advanced Software Development
